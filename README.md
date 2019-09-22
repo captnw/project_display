@@ -1,4 +1,4 @@
-# project_display
+# Project display
 
 Repo containing all of my projects.
 
