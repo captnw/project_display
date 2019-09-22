@@ -1,0 +1,26 @@
+# these are my personal steps for exporting with pyinstaller.
+#
+# [NOTE]: pyinstaller was a python library that helped with exporting a python file into an executable.
+# 
+# 1) go to cmd, then navigate to your folder with the python file (my folder in this case was 'C:\\Users\\willi\\Desktop\\ICS_whatever\\assignment_school\\WRIT_39B')
+#
+# 1.5) run this in cmd: pyi-makespec [options] Money_for_a_payphone.py
+#
+# [NOTE]: This would create a .spec file 
+#
+# 2) add this to the .spec folder in data -> ('C:\\Users\\willi\\Desktop\\ICS_whatever\\assignment_school\\WRIT_39B\\game_assets','game_assets')
+#
+# [NOTE]: I had images in my game, so adding that code above would allow pyinstaller to bundle that folder into the executable and the images would still display properly after exporting into an executable 
+#
+# 2.5) run this in cmd: pyinstaller [options] Money_for_a_payphone.spec
+#
+# EXAMPLE exporting process: 
+# options: no console, 1 file, it has an icon ... so you would use the commands: -F, -w, -i ...
+#
+# 1) run this in cmd: pyi-makespec -F -w -i "C:\Users\willi\Desktop\ICS_whatever\assignment_school\WRIT_39B\game_assets\circle_char_icon.ico" Money_for_a_payphone.py
+#
+# [NOTE]: Again, this creates a .spec file.
+# 
+# 2) then you run this in cmd: pyinstaller -w -F Money_for_a_payphone.spec
+#
+# Alternative step) if you already have the .spec file ... just run: pyinstaller -w -F Money_for_a_payphone.spec
