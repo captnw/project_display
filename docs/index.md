@@ -16,7 +16,8 @@ A python talking adventure game where you have to go and talk to the inhabitants
 - **[More info about the project](./Money_for_a_payphone/PROJECTREADME.md).**
 
 - **[Github repo](https://github.com/captnw/project_display/tree/master/Money_for_a_payphone).**
-______
+
+
 
 **Escape the simple dungeon 1.0.0**
 ![Escape the simple dungeon](https://raw.githubusercontent.com/captnw/project_display/master/Escape_the_simple_dungeon/screenshots/screencap_1.PNG)
