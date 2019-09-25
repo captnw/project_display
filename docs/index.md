@@ -1,4 +1,4 @@
-# Project display
+## My main projects
 
 Hi, my name is William, and this is a Repo containing all of my projects.
 
@@ -6,7 +6,7 @@ Feel free to look at the assets, source code, and even use them.
 
 Suggestions or criticism are welcomed.
 
-## Projects
+### Projects
 
 **Money for a payphone 1.0**
 ![Money for a payphone](https://raw.githubusercontent.com/captnw/project_display/master/Money_for_a_payphone/screenshots/screencap_1.PNG)
