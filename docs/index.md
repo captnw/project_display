@@ -13,7 +13,7 @@ Suggestions or criticism are welcomed.
 
 A python talking adventure game where you have to go and talk to the inhabitants around your town in order to earn enough money to use a payphone.
 
-- **[More info about the project](./Money_for_a_payphone/PROJECTREADME.md).**
+- **[More info about the project](Money_for_a_payphone/PROJECTREADME.md).**
 
 - **[Github repo](https://github.com/captnw/project_display/tree/master/Money_for_a_payphone).**
 
@@ -24,6 +24,6 @@ A python talking adventure game where you have to go and talk to the inhabitants
 
 A python game in which you type commands to navigate your way through a randomly generated dungeon.
 
-- **[More info about the project](./Escape_the_simple_dungeon/PROJECTREADME.md).**
+- **[More info about the project](Escape_the_simple_dungeon/PROJECTREADME.md).**
 
 - **[Github repo](https://github.com/captnw/project_display/tree/master/Escape_the_simple_dungeon).**
