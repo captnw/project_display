@@ -1,5 +1,5 @@
 title: William's projects
 description: This is a page for all of my projects. You can view them individually or you can look at the whole project repo in the link below.
 show_downloads: false
-google_analytics: true
+google_analytics: UA-148738592-1 
 theme: jekyll-theme-minimal
