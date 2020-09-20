@@ -1,10 +1,10 @@
 # Project display
 
-Hi, my name is William, and this is a Repo containing all of my projects.
-
+This page is dedicated to showcasing all of my various games and projects.
 Feel free to look at the assets, source code, and even use them.
+Suggestions and/or criticism are welcomed (when I eventually implement a comments section).
 
-Suggestions or criticism are welcomed.
+**Note: currently games are downloadable .exe files, I will get the games running in the browser if you don't wish to download some random .exe file to try out these games/projects.**
 
 ## Projects
 
