@@ -1,10 +1,8 @@
 # Project display
 
-This page is dedicated to showcasing all of my various games and projects.
+This page is dedicated to showcasing some of my various games and projects (if they're already not in a repo).
 Feel free to look at the assets, source code, and even use them.
 Suggestions and/or criticism are welcomed (when I eventually implement a comments section).
-
-**Note: currently games are downloadable .exe files, I will get the games running in the browser if you don't wish to download some random .exe file to try out these games/projects.**
 
 ## Projects
 
