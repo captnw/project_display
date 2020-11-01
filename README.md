@@ -1,6 +1,6 @@
 # Project display
 
-This page is dedicated to showcasing some of my various games and projects (if they're already not in a repo).
+This page is dedicated to showcasing some of my various games and projects (that are not already in a repo).
 Feel free to look at the assets, source code, and even use them.
 Suggestions and/or criticism are welcomed (when I eventually implement a comments section).
 
